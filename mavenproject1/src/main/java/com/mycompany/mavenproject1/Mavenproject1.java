@@ -18,8 +18,8 @@ public class Mavenproject1 {
         habibaelghazouly h = new habibaelghazouly();
         System.out.println("number is " + h.num);
         System.out.println("Hello World!"); 
-        NewClasshabiba h=new NewClasshabiba("Habiba Rezq");
-        h.print();
+        NewClasshabiba h2=new NewClasshabiba("Habiba Rezq");
+        h2.print();
         for(int i=0;i<5;i++)
         {
             System.out.println("hiiiii");    
