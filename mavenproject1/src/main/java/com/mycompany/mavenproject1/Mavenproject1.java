@@ -13,6 +13,9 @@ import newpackage.NewClasshabiba;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
+      
+        habibaelghazouly h = new habibaelghazouly();
+        System.out.println("number is " + h.num);
         System.out.println("Hello World!"); 
         NewClasshabiba h=new NewClasshabiba("Habiba Rezq");
         h.print();
@@ -20,5 +23,6 @@ public class Mavenproject1 {
         {
             System.out.println("hiiiii");    
         }
+
     }
 }
